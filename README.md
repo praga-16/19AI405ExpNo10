@@ -1,6 +1,6 @@
 # EX-10-Implementation of Classical Planning Algorithm.
-## Developed By: Yuvadarshini S
-## Register No : 212221230126
+## Developed By: PRAGATHEESVARAN AB
+## Register No : 212221240039
 ### Aim:
 To implement the Classical Planning Algorithm.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
